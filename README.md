@@ -11,3 +11,17 @@ Pentru text bold: ** sau __ inainte si dupa text
 Pentru text italic: * sau _ inainte si dupa text
 
 Pentru text italic bold: *** sau ___ inainte si dupa text
+
+1. Introduction
+
+   1.1. Project objective
+ 
+   1.2. Functionalities in scope
+ 
+2. Second item
+3. Third item
+
+    3.1. Indented item
+    
+    3.2. Indented item
+4. Fourth item
