@@ -12,6 +12,7 @@ Pentru text italic: * sau _ inainte si dupa text
 
 Pentru text italic bold: *** sau ___ inainte si dupa text
 
+Lista ordonata:
 1. Introduction
 
    1.1. Project objective
@@ -25,3 +26,21 @@ Pentru text italic bold: *** sau ___ inainte si dupa text
     
     3.2. Indented item
 4. Fourth item
+
+Lista neordonata:
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth ite
+
+## 1.3 Functionalities and tests out of scope
+
+- All OrangeHRM features except Admin module
+
+- Non-functional testing like stress, performance is beyond scope of this project
+
+- No QA support for mobile application developed. Only web application will be tested.
+
+- Auomation testing is beyond scope.
