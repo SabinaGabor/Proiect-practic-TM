@@ -7,5 +7,7 @@
 | __25.03.2023__ | v1.2| Maria Popescu | Test results for admin functional testing |
 
 Pentru text bold: ** sau __ inainte si dupa text
+
 Pentru text italic: * sau _ inainte si dupa text
-Pentru text italic bold> *** sau ___ inainte si dupa text
+
+Pentru text italic bold: *** sau ___ inainte si dupa text
