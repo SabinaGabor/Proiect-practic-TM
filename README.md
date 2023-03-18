@@ -47,3 +47,5 @@ Lista neordonata:
 - No QA support for mobile application developed. Only web application will be tested.
 
 - Auomation testing is beyond scope.
+
+Here are the link test case  [Test cases details](https://github.com/SabinaGabor/Proiect-practic-TM/commit/c570f90d1fdbafb29145edf248d8ac8eeb85277f)
