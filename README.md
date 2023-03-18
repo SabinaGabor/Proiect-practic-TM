@@ -49,3 +49,9 @@ Lista neordonata:
 - Auomation testing is beyond scope.
 
 Here are the link test case  [Test cases details](https://github.com/SabinaGabor/Proiect-practic-TM/commit/c570f90d1fdbafb29145edf248d8ac8eeb85277f)
+
+### Entry criteria:
+ 
+- functional specifications defined 
+- roles needed for the project are allocated 
+- initial project risks were detected and mitigated
