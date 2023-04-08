@@ -55,3 +55,6 @@ Here are the link test case  [Test cases details](https://github.com/SabinaGabor
 - functional specifications defined 
 - roles needed for the project are allocated 
 - initial project risks were detected and mitigated
+
+
+![Screen user story](https://github.com/SabinaGabor/Proiect-practic-TM/blob/main/story.png)
